@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wings-strengthening-daughter-truly.trycloudflare.com/vnc.html
+URL       : https://scored-album-resolutions-weed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-15 15:16:44
+Created   : 2026-07-15 23:38:26
 =======================================================
